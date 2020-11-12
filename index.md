@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MothishMC/Web_dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MothishMC/Web_dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Module-2 Assignment</title>
+<link rel="stylesheet" href="../css/style_index.css">
+</head>
+<body>
+<h1>Our Menu</h1>
+  <div class="col-lg col-md col-sm">
+    <div id="section1">
+      <h3 id=title1>Chicken</h3>
+      <p>
+      Lorem ipsum dolor, sit amet consectetur, adipisicing elit.
+      Explicabo alias voluptas veritatis porro tempore sunt consectetur harum officiis sed,
+      commodi perferendis dicta dolorum aperiam esse vero ea delectus, soluta excepturi deserunt maxime
+      voluptates ipsum corporis dolore laborum? Perferendis tenetur at maxime. Numquam a maxime cumque blanditiis dolorum id facere,
+      voluptatem voluptatibus non omnis explicabo soluta officiis itaque amet esse repudiandae nostrum quibusdam aperiam, fugiat quos laudantium libero?
+      Unde sunt molestiae pariatur, id consectetur perspiciatis adipisci qui amet! Amet et commodi cupiditate provident sed deleniti quisquam harum saepe
+      recusandae asperiores nesciunt quod quidem corporis at pariatur temporibus ex, beatae accusamus ducimus.</p>
+    </div>
+  </div>
+  <div class="col-lg col-md col-sm">
+    <div id="section2">
+      <h3 id=title2>Beef</h3>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Magni voluptatum deserunt praesentium temporibus quam earum quibusdam officia,
+        amet, voluptate. Sint excepturi aut sapiente porro obcaecati culpa aperiam ex natus ullam ipsum veniam quae, voluptatibus
+        voluptas illum minima iure maxime?</p>
+    </div>
+  </div>
+ <div class="col-lg col col-sm">
+    <div id="section3">
+      <h3 id=title3>Sushi</h3>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Dicta inventore voluptatibus blanditiis impedit corrupti est atque libero tenetur.
+        Obcaecati quae optio, accusantium soluta. Ea, in pariatur. Possimus, quidem voluptatibus vel maxime dicta ea, expedita,
+        libero minus unde, omnis pariatur?</p>
+    </div>
+  </div>
+</body>
+</html>
